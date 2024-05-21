@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that user is abel to logout successfully</description>
+   <name>Logout</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3a5ef34c-911e-4a6f-a64b-3559abcfadc2</testCaseGuid>
+</TestCaseEntity>

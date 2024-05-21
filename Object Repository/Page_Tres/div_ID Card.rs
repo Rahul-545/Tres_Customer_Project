@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_ID Card</name>
+   <tag></tag>
+   <elementGuidId>1f723756-04ce-4150-8c4f-04fa580e7755</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.card-title-wrap</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[3]/div/div[2]/div/div/div/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>25506991-3155-4f69-8491-5888e1d970d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>card-title-wrap</value>
+      <webElementGuid>a97ec724-a2c9-4633-9eb8-fa567e332ff2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ID Card</value>
+      <webElementGuid>e00a0085-5f03-474f-a3ee-11deea39cba7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;App has-header&quot;]/div[@class=&quot;home-page&quot;]/div[@class=&quot;homepage-content&quot;]/div[@class=&quot;homepage-details&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;container-box&quot;]/div[@class=&quot;detail-wrp&quot;]/div[@class=&quot;left-block-wrp&quot;]/div[@class=&quot;crd-main id-card&quot;]/div[@class=&quot;card-title-wrap&quot;]</value>
+      <webElementGuid>13721a97-2cd0-4401-b384-e5835f8df204</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[3]/div/div[2]/div/div/div/div/div/div</value>
+      <webElementGuid>c247973e-79cc-45f3-aff0-e24b46b3a257</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Logout'])[1]/following::div[13]</value>
+      <webElementGuid>904d470c-a060-4a92-ac09-fcfb5583e259</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FRxxxxxCK'])[1]/preceding::div[2]</value>
+      <webElementGuid>86ecb60b-cfb6-4114-be74-cbc50c1d87a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div/div</value>
+      <webElementGuid>aef6a28a-de73-45d9-b6cd-57e1881f166e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'ID Card' or . = 'ID Card')]</value>
+      <webElementGuid>e4d5f090-b7fe-446c-945b-f2c0ab76d061</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

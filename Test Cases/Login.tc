@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Login to the Customer Panel</description>
+   <name>Login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d2491fde-cc05-4dc1-a024-278bdeceea46</testCaseGuid>
+</TestCaseEntity>
